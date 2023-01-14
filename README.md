@@ -45,9 +45,9 @@ Output:
 ![L and U matrix output](https://user-images.githubusercontent.com/121117266/212457559-51730331-b9fe-47b0-97b9-53d3da741172.png)
 
 
-#Algorithm
-
 (ii) To find the LU Decomposition of a matrix
+
+#Algorithm
 
 Step 1:
 Import numpy and scipy from the python library.
